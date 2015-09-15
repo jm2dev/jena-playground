@@ -1,0 +1,14 @@
+#+TITLE: Apache Jena playground
+#+AUTHOR: José Miguel
+#+EMAIL: jm@0pt1mates.com
+
+* Overview
+
+Playing around with https://jena.apache.org to implement semantic and linked data applications.
+
+* Time report
+
+** TODO RDF tutorial
+   :LOGBOOK:
+   CLOCK: [2015-09-15 Tue 21:26]
+   :END:
