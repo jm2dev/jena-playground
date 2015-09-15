@@ -6,6 +6,18 @@
 
 Playing around with https://jena.apache.org to implement semantic and linked data applications.
 
+* Requirements
+
+- Java 8
+- Gradle
+
+* Build
+
+#+BEGIN_SRC sh
+cd tutorials
+gradle --daemon rdf:test
+#+END_SRC
+
 * Time report
 
 ** TODO RDF tutorial
