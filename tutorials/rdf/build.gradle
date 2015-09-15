@@ -3,4 +3,5 @@ apply plugin: "java"
 dependencies {
   testCompile 'org.assertj:assertj-core:3.1.0'
   testCompile 'junit:junit:4.12'
+  testCompile 'org.apache.jena:apache-jena-libs:3.0.0'
 }
